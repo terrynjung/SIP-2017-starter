@@ -1,0 +1,33 @@
+body {
+  font-family: "Open Sans";
+  background-color: #ffffff;
+}
+
+button {
+  font-family: "Open Sans";
+  background-color: #ffa0a0;
+  border: none;
+  color: #01426a;
+  padding: 5px 10px 5px 10px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+#question {
+  font-size: 24px;
+  text-align: center;
+}
+
+.answers, .guesses {
+  text-align: center;
+}
+
+#result {
+  margin-top: 10%;
+  text-align: center;
+  color: black;
+  font-size: 18px;
+}
